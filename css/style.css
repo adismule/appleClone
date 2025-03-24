@@ -40,16 +40,87 @@ img {
   padding: 4px 0;
   border-bottom: 1px solid #4b4b4b;
 }
+/* My exercise starts hree */
+.link-wrapper .buy a{
+  color: #027BFF
+}
+.link-wrapper a::after {
+  font-family: "FontAwesome";
+  content: '\f105';
+  margin-left: 10px;
+}
+.one-column-section,
+.two-column-section {
+  height: 600px;
+  background-repeat: no-repeat;
+}
 
+.iphone11-wrapper,
+.iphone11pro-wrapper {
+background-position: center;
+}
 /* Macbook styling starts here */
 .macbook-wrapper {
   background-color: #fafafa;
 }
+/* iphone 11 Pro styling */
+.iphone11pro-wrapper {
+  background-image: url(../images/home/iphone11-pro-bg.jpg);
+  color: white;
+}
+/* iphone 11 styling */
+.iphone11-wrapper {
+  background-image: url(../images/home/iphone11-bg.jpg);
+  color: black;
+}
+/* Watch and card styling */
+.watch-wrapper,
+.card-wrapper {
+  background-position: center;
+  background-size: cover;
+  color: black;
+}
+.watch-wrapper {
+  background-image: url(../images/home/watch-series-5.jpg);
+}
+.card-wrapper {
+  background-image: url(../images/home/apple-card.jpg);
+}
+/* tv styling */
+.tv-wrapper {
+  background-image: url(../images/home/apple-tv-background.jpg);
+  background-position: center;
+  background-size: cover;
+}
 
+.tv-link a::after {
+  font-family: 'FontAwesome';
+  content: '\f144';
+  padding-left: 10px;
+}
 
+/* airpod styling */
+.airpod-wrapper {
+  background-image: url(../images/home/air-pods.jpg);
+  background-position: bottom;
+  background-size: initial;
+  background-color: black;
+  color: white;
+}
 
-/* Code goes here */
-
+/* second mackbook styling */
+.macbook-bottom-wrapper {
+  background-image: url(../images/home/macbook-pro.jpg);
+  background-position: bottom;
+  background-size: initial;
+  background-color: #FAFAFA;
+}
+/* ipad styling */
+.ipad-wrapper {
+  background-image: url(../images/home/new-ipad.jpg);
+  background-position: center;
+  background-size: cover;
+}
 /* Footer Styling */
 .footer-wrapper {
   background-color: #f5f5f7;
@@ -156,5 +227,3 @@ img {
     margin-top: 10px;
   }
 }
-
-
