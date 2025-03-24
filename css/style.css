@@ -41,6 +41,13 @@ img {
   border-bottom: 1px solid #4b4b4b;
 }
 
+/* Macbook styling starts here */
+.macbook-wrapper {
+  background-color: #fafafa;
+}
+
+
+
 /* Code goes here */
 
 /* Footer Styling */
@@ -149,3 +156,5 @@ img {
     margin-top: 10px;
   }
 }
+
+
