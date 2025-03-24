@@ -41,12 +41,12 @@ img {
   border-bottom: 1px solid #4b4b4b;
 }
 /* My exercise starts hree */
-.link-wrapper .buy a{
-  color: #027BFF
+.link-wrapper .buy a {
+  color: #027bff;
 }
 .link-wrapper a::after {
   font-family: "FontAwesome";
-  content: '\f105';
+  content: "\f105";
   margin-left: 10px;
 }
 .one-column-section,
@@ -57,7 +57,7 @@ img {
 
 .iphone11-wrapper,
 .iphone11pro-wrapper {
-background-position: center;
+  background-position: center;
 }
 /* Macbook styling starts here */
 .macbook-wrapper {
@@ -94,8 +94,8 @@ background-position: center;
 }
 
 .tv-link a::after {
-  font-family: 'FontAwesome';
-  content: '\f144';
+  font-family: "FontAwesome";
+  content: "\f144";
   padding-left: 10px;
 }
 
@@ -113,7 +113,7 @@ background-position: center;
   background-image: url(../images/home/macbook-pro.jpg);
   background-position: bottom;
   background-size: initial;
-  background-color: #FAFAFA;
+  background-color: #fafafa;
 }
 /* ipad styling */
 .ipad-wrapper {
