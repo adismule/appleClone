@@ -47,9 +47,11 @@ git clone https://github.com/adismule/appleClone.git
    git add <file_tobe_staged>
 ```
 * commit change
+* click source control from left menu of vs code-> add commit message --> click "✓"(commit) ** OR **
 ```git
 git commit -m <commit_message>
 ```
+
 * push your change to your branch
 ```git 
 git push
