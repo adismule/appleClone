@@ -68,3 +68,6 @@ git merge main
 ```git 
 git push
 ```
+* once change is pushed go to github and create a pr(merge request)
+* include one or two developers on your pr review
+* once code approved reachout to a developer with merge access to merge your branch to main branch
