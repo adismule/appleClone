@@ -1,6 +1,14 @@
 # appleClone repository
 - Introduction to git (Evangadi class)
 ---
+
+## contributors 
+- Mule - team lead
+- Omar - contributor
+- Neka - contributor
+- Lebona -contributor
+- Haimi -contributor
+---
 ## how to setup [appClone](https://github.com/adismule/appleClone.git) repo on your local
 - open your terminal(command window for windows users) on your computer
 - from your terminal navigate(cd) to the local folder where you want to clone the repo 
